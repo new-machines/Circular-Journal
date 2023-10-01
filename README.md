@@ -5,4 +5,9 @@ These scripts take a short paragraph of journal writing then shows all of your e
 Comme ça:
 
 All entries for this date, 10-01:
+
 Year: 2023, Entry: Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Donec odio. Quisque volutpat mattis eros. Nullam malesuada erat ut turpis. Suspendisse urna nibh viverra non semper suscipit posuere a pede.
+
+Year: 2022, Entry: Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Donec odio. Quisque volutpat mattis eros. Nullam malesuada erat ut turpis. Suspendisse urna nibh viverra non semper suscipit posuere a pede.
+
+
