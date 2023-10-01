@@ -27,6 +27,9 @@ with open('entries.csv', mode='r') as file:
         if entry_month == current_month and entry_day == current_day:
             matching_entries.append((entry_year, entry_text))
 
+# Sort the matching_entries list in descending order of the year
+matching_entries.sort(key=lambda x: x[0], reverse=True)
+
 # Print the message for matching entries
 print(f"All entries for this date, {current_month}-{current_day}:")
 
